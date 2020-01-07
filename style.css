@@ -136,6 +136,12 @@ footer {
     color: black;
     font-weight: 600;
     margin-left: 1%;
+    text-decoration: none;
+}
+
+.email:hover {
+    font-size: larger;
+    color: white;
 }
 
 .vectors {
