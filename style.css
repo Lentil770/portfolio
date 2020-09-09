@@ -12,6 +12,10 @@
     line-height: 27px;
 }
 
+.main {
+    margin-bottom: 50px;
+}
+
 main {
     text-align: left;
     margin-left: auto;
@@ -103,6 +107,12 @@ h1 {
 
 .project {
     border: 2px solid white;
+    margin-bottom: 50px;
+    padding-bottom: 25px;
+}
+
+.noteful {
+    margin-bottom: 100px;
 }
 
 .project-title {
@@ -113,6 +123,10 @@ h1 {
     width: 95%;
     padding-left: 1%;
     padding-top: 3%;;
+}
+
+#thumbs-up-img {
+    width: auto;
 }
 
 a {
@@ -137,6 +151,7 @@ footer {
     font-weight: 600;
     margin-left: 1%;
     text-decoration: none;
+    padding-top: 0.8%;
 }
 
 .email:hover {
